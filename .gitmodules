@@ -1,0 +1,6 @@
+[submodule "min-apps"]
+	path = min-apps
+	url = https://github.com/liuxingyuzaixian/min-apps.git
+[submodule "min-apps2"]
+	path = min-apps2
+	url = https://github.com/liuxingyuzaixian/min-apps2.git
